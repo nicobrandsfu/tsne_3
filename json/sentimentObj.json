@@ -1,0 +1,354 @@
+[{
+    "text": " Let freedom ring from the snowcapped Rockies of Colorado",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " One hundred years later the Negro is still languis…ociety and finds himself an exile in his own land",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " I have a dream that one day down in Alabama with i…hite boys and white girls as sisters and brothers",
+    "score": 0.431725,
+    "label": "positive"
+  },
+  {
+    "text": " We must not allow our creative protest to degenerate into physical violence",
+    "score": -0.964109,
+    "label": "negative"
+  },
+  {
+    "text": " Let freedom ring from the curvaceous slopes of California",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " I am not unmindful that some of you have come here out of great trials and tribulations",
+    "score": 0.716097,
+    "label": "positive"
+  },
+  {
+    "text": "  We cannot be satisfied as long as a Negro in Mis…ew York believes he has nothing for which to vote",
+    "score": -0.90508,
+    "label": "negative"
+  },
+  {
+    "text": " Let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred",
+    "score": -0.616353,
+    "label": "negative"
+  },
+  {
+    "text": " The whirlwinds of revolt will continue to shake th…ur nation until the bright day of justice emerges",
+    "score": 0.879442,
+    "label": "positive"
+  },
+  {
+    "text": " Let freedom ring from the heightening Alleghenies of Pennsylvania",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " The marvelous new militancy which has engulfed the…ze that their destiny is tied up with our destiny",
+    "score": 0.847312,
+    "label": "positive"
+  },
+  {
+    "text": " We can never be satisfied as long as the Negro is …im of the unspeakable horrors of police brutality",
+    "score": -0.692593,
+    "label": "negative"
+  },
+  {
+    "text": " And there will be neither rest nor tranquility in …until the Negro is granted his citizenship rights",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " It is a dream deeply rooted in the American dream",
+    "score": 0.966819,
+    "label": "positive"
+  },
+  {
+    "text": " One hundred years later the life of the Negro is s…s of segregation and the chains of discrimination",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " This note was a promise that all men yes black men…s of Life Liberty and the pursuit of Happiness",
+    "score": 0.93413,
+    "label": "positive"
+  },
+  {
+    "text": " Now is the time to make real the promises of democracy",
+    "score": 0.499205,
+    "label": "positive"
+  },
+  {
+    "text": " We cannot turn back",
+    "score": -0.537085,
+    "label": "negative"
+  },
+  {
+    "text": " And if America is to be a great nation this must become true",
+    "score": 0.977521,
+    "label": "positive"
+  },
+  {
+    "text": " From every mountainside let freedom ring",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " With this faith we will be able to transform the j…r nation into a beautiful symphony of brotherhood",
+    "score": 0.98736,
+    "label": "positive"
+  },
+  {
+    "text": " It is obvious today that America has defaulted on …te insofar as her citizens of color are concerned",
+    "score": -0.760037,
+    "label": "negative"
+  },
+  {
+    "text": " I have a dream that my four little children will o… their skin but by the content of their character",
+    "score": 0.561241,
+    "label": "positive"
+  },
+  {
+    "text": " Let freedom ring from the mighty mountains of New York",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " I have a dream that one day this nation will rise …to be selfevident that all men are created equal",
+    "score": 0.90134,
+    "label": "positive"
+  },
+  {
+    "text": " I have a dream that one day on the red hills of Ge… to sit down together at the table of brotherhood",
+    "score": 0.440055,
+    "label": "positive"
+  },
+  {
+    "text": " Now is the time to lift our nation from the quicks…racial injustice to the solid rock of brotherhood",
+    "score": 0.674958,
+    "label": "positive"
+  },
+  {
+    "text": " We can never be satisfied as long as our children …f their dignity by signs stating For Whites Only",
+    "score": -0.34262,
+    "label": "negative"
+  },
+  {
+    "text": " But not only that↵↵Let freedom ring from Stone Mountain of Georgia",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " Nineteen sixtythree is not an end but a beginning",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " And so weve come to cash this check a check that w…the riches of freedom and the security of justice",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " Go back to Mississippi go back to Alabama go back …at somehow this situation can and will be changed",
+    "score": -0.556061,
+    "label": "negative"
+  },
+  {
+    "text": " Let freedom ring from Lookout Mountain of Tennessee",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " This is no time to engage in the luxury of cooling…f or to take the tranquilizing drug of gradualism",
+    "score": -0.420875,
+    "label": "negative"
+  },
+  {
+    "text": " We must forever conduct our struggle on the high plane of dignity and discipline",
+    "score": 0.305548,
+    "label": "positive"
+  },
+  {
+    "text": " We have also come to this hallowed spot to remind America of the fierce urgency of Now",
+    "score": 0.856843,
+    "label": "positive"
+  },
+  {
+    "text": " One hundred years later the Negro lives on a lonel… the midst of a vast ocean of material prosperity",
+    "score": 0.316961,
+    "label": "positive"
+  },
+  {
+    "text": " Let us not wallow in the valley of despair I say to you today my friends",
+    "score": -0.691447,
+    "label": "negative"
+  },
+  {
+    "text": " 2↵↵This is our hope and this is the faith that I go back to the South with",
+    "score": 0.950347,
+    "label": "positive"
+  },
+  {
+    "text": " But there is something that I must say to my peopl…ful place we must not be guilty of wrongful deeds",
+    "score": -0.603319,
+    "label": "negative"
+  },
+  {
+    "text": " When the architects of our republic wrote the magn…ory note to which every American was to fall heir",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " In a sense weve come to our nations capital to cash a check",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " We cannot be satisfied as long as the negros basic mobility is from a smaller ghetto to a larger one",
+    "score": -0.778992,
+    "label": "negative"
+  },
+  {
+    "text": " It would be fatal for the nation to overlook the urgency of the moment",
+    "score": -0.345391,
+    "label": "negative"
+  },
+  {
+    "text": " No no we are not satisfied and we will not be sati…ike waters and righteousness like a mighty stream",
+    "score": -0.45982,
+    "label": "negative"
+  },
+  {
+    "text": " And this will be the day  this will be the day whe… tis of thee sweet land of liberty of thee I sing",
+    "score": 0.97685,
+    "label": "positive"
+  },
+  {
+    "text": " Thank God Almighty we are free at last",
+    "score": 0.991949,
+    "label": "positive"
+  },
+  {
+    "text": " And some of you have come from areas where your qu…on and staggered by the winds of police brutality",
+    "score": -0.764637,
+    "label": "negative"
+  },
+  {
+    "text": " Let freedom ring from every hill and molehill of Mississippi",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": " Five score years ago a great American in whose sym… stand today signed the Emancipation Proclamation",
+    "score": 0.914304,
+    "label": "positive"
+  },
+  {
+    "text": " This momentous decree came as a great beacon light… been seared in the flames of withering injustice",
+    "score": 0.453649,
+    "label": "positive"
+  },
+  {
+    "text": " And so even though we face the difficulties of today and tomorrow I still have a dream",
+    "score": -0.513776,
+    "label": "negative"
+  },
+  {
+    "text": " It came as a joyous daybreak to end the long night of their captivity",
+    "score": 0.912937,
+    "label": "positive"
+  },
+  {
+    "text": " And those who hope that the Negro needed to blow o…kening if the nation returns to business as usual",
+    "score": 0.426509,
+    "label": "positive"
+  },
+  {
+    "text": " Land where my fathers died land of the Pilgrims pride    From every mountainside let freedom ring",
+    "score": 0,
+    "label": "neutral"
+  }, {
+    "text": " From every mountainside let freedom ring",
+    "score": 0,
+    "label": "neutral"
+  },
+  {
+    "text": "I am happy to join with you today in what will go …stration for freedom in the history of our nation ",
+    "score": 0.957173,
+    "label": "positive"
+  },
+  {
+    "text": " You have been the veterans of creative suffering",
+    "score": -0.927015,
+    "label": "negative"
+  },
+  {
+    "text": " But one hundred years later the Negro still is not free",
+    "score": -0.867766,
+    "label": "negative"
+  },
+  {
+    "text": " Continue to work with the faith that unearned suffering is redemptive",
+    "score": -0.971227,
+    "label": "negative"
+  },
+  {
+    "text": " With this faith we will be able to hew out of the mountain of despair a stone of hope",
+    "score": 0.878748,
+    "label": "positive"
+  },
+  {
+    "text": " And so let freedom ring from the prodigious hilltops of New Hampshire",
+    "score": 0.615645,
+    "label": "positive"
+  },
+  {
+    "text": " We refuse to believe that there are insufficient f…in the great vaults of opportunity of this nation",
+    "score": -0.658342,
+    "label": "negative"
+  },
+  {
+    "text": " We cannot walk alone",
+    "score": -0.539334,
+    "label": "negative"
+  },
+  {
+    "text": " I have a dream that one day every valley shall be …l be revealed and all flesh shall see it together",
+    "score": 0.913618,
+    "label": "positive"
+  },
+  {
+    "text": " And they have come to realize that their freedom is inextricably bound to our freedom",
+    "score": -0.792678,
+    "label": "negative"
+  },
+  {
+    "text": " There are those who are asking the devotees of civil rights When will you be satisfied",
+    "score": 0.635548,
+    "label": "positive"
+  },
+  {
+    "text": " I have a dream today",
+    "score": 0.671986,
+    "label": "positive"
+  }, {
+    "text": " I have a dream today",
+    "score": 0.671986,
+    "label": "positive"
+  },
+  {
+    "text": " Now is the time to make justice a reality for all of Gods children",
+    "score": 0.748111,
+    "label": "positive"
+  },
+  {
+    "text": " And when this happens and when we allow freedom ri…he words of the old Negro spiritual↵↵Free at last",
+    "score": 0,
+    "label": "neutral"
+  }
+]

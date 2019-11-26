@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>tsne_3</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="lib/tsne.js"></script>
+  <script src="https://d3js.org/d3.v3.js"></script>
+  <script src="lib/textwrap.js"></script>
+  <script src="app.js"></script>
+  <script src="script.js"></script>
+
+  <style>
+
+/* CSS soon in own file! */
+  body {
+    font-family: 'work-sans', sans-serif;
+    color: #333;
+    font-weight: 600;
+    font-size: 12px;
+    background-color: white;
+  }
+  svg {
+    border: 1px solid #3F574A;
+    background-color: #EFF5E9;
+  }
+
+.sentences {
+  width: 30px;
+}
+
+  #wrap {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #embed {
+    margin-top: 10px;
+  }
+  h1 {
+    text-align: center;
+    font-weight: normal;
+  }
+
+  .tt {
+    margin-top: 10px;
+    background-color: #EEE;
+    border-bottom: 1px solid #333;
+    padding: 5px;
+  }
+  .txth {
+    color: #F55;
+  }
+  .cit {
+    font-family: courier;
+    padding-left: 20px;
+    font-size: 14px;
+  }
+  </style>
+
+</head>
+
+<!-- Show embedding -->
+<body>
+  <div id="embed"></div>
+  <div width="600" id="target-id"></div>
+</body>
+
+</html>

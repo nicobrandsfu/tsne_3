@@ -1,0 +1,3 @@
+7g98BrMlBIisdLvcqIZ7akzOsQoOJ7FBTPVLiaZ4s93F
+
+https://gateway-lon.watsonplatform.net/natural-language-understanding/api
